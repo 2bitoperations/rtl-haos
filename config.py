@@ -176,6 +176,7 @@ class Settings(BaseSettings):
             "rain_rate_mm_h",
             "rain_rate_in_h",
             "lux",
+            "light_lux",
             "uv",
             "strikes",
             "strike_distance",
